@@ -1,0 +1,87 @@
+data_dAg06-oh
+_audit_creation_date              2025-09-02
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P-4N2'
+_symmetry_Int_Tables_number       118
+_symmetry_cell_setting            tetragonal
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  y,-x,-z
+  -y,x,-z
+  x+1/2,-y+1/2,z+1/2
+  -x+1/2,y+1/2,z+1/2
+  y+1/2,x+1/2,-z+1/2
+  -y+1/2,-x+1/2,-z+1/2
+_cell_length_a                    16.5411
+_cell_length_b                    16.5411
+_cell_length_c                    13.5952
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+C1     C     0.51396   0.62718   0.60474   0.00000  Uiso   1.00
+C2     C     0.55629   0.67596   0.66979   0.00000  Uiso   1.00
+H3     H     0.45386   0.64495   0.58205   0.00000  Uiso   1.00
+C4     C     0.74427   0.54546   0.70446   0.00000  Uiso   1.00
+N5     N     0.80218   0.58910   0.73942   0.00000  Uiso   1.00
+H6     H     0.75420   0.48137   0.69331   0.00000  Uiso   1.00
+C7     C     0.88138   0.55514   0.76227   0.00000  Uiso   1.00
+H8     H     0.89243   0.49896   0.71936   0.00000  Uiso   1.00
+C9     C     0.87689   0.03220   0.10593   0.00000  Uiso   1.00
+C10    C     0.83295   0.08066   0.17032   0.00000  Uiso   1.00
+H11    H     0.85193   0.97447   0.08403   0.00000  Uiso   1.00
+H12    H     0.88439   0.54110   0.84207   0.00000  Uiso   1.00
+C13    C     0.54806   0.55598   0.56863   0.00000  Uiso   1.00
+C14    C     0.63317   0.65489   0.70138   0.00000  Uiso   1.00
+O15    O     0.67065   0.70853   0.76588   0.00000  Uiso   1.00
+O16    O     0.52204   0.74753   0.70353   0.00000  Uiso   1.00
+H17    H     0.46624   0.75625   0.67484   0.00000  Uiso   1.00
+C18    C     0.00000   0.00000   0.00000   0.00000  Uiso   1.00
+Ag19   Ag    0.78923   0.71077   0.75000   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+C1     C13     1.395   .     A
+C1     C2      1.387   .     A
+C1     H3      1.082   .     S
+C2     C14     1.387   .     A
+C2     O16     1.390   .     S
+C4     N5      1.290   .     D
+C4     H6      1.083   .     S
+C4     C10     1.478   6_655 S
+N5     Ag19    2.029   .     S
+N5     C7      1.459   .     S
+C7     H8      1.112   .     S
+C7     C7      1.522   8_666 S
+C7     H12     1.111   .     S
+C9     C13     1.397   6_644 A
+C9     C10     1.392   .     A
+C9     H11     1.082   1_545 S
+C10    C14     1.414   6_644 A
+C10    C4      1.478   6_644 S
+H11    C9      1.082   1_565 S
+C13    C9      1.397   6_655 A
+C13    C18     1.536   5     S
+C14    C10     1.414   6_655 A
+C14    O15     1.393   .     S
+O15    Ag19    1.974   .     S
+O16    H17     1.012   .     S
+C18    C13     1.536   5_454 S
+C18    C13     1.536   6_544 S
+C18    C13     1.536   8     S
+C18    C13     1.536   7_445 S
+Ag19   N5      2.029   8_666 S
+Ag19   O15     1.974   8_666 S

@@ -1,0 +1,111 @@
+data_dAg03-oh
+_audit_creation_date              2025-09-02
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P-4N2'
+_symmetry_Int_Tables_number       118
+_symmetry_cell_setting            tetragonal
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  y,-x,-z
+  -y,x,-z
+  x+1/2,-y+1/2,z+1/2
+  -x+1/2,y+1/2,z+1/2
+  y+1/2,x+1/2,-z+1/2
+  -y+1/2,-x+1/2,-z+1/2
+_cell_length_a                    18.9226
+_cell_length_b                    18.9226
+_cell_length_c                    34.9729
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+C1     C     0.56971   0.61912   0.53115   0.00000  Uiso   1.00
+C2     C     0.61229   0.65306   0.55775   0.00000  Uiso   1.00
+H3     H     0.54027   0.65001   0.51055   0.00000  Uiso   1.00
+H4     H     0.61643   0.71001   0.55716   0.00000  Uiso   1.00
+C5     C     0.38381   0.74489   0.36589   0.00000  Uiso   1.00
+C6     C     0.35354   0.77991   0.33490   0.00000  Uiso   1.00
+H7     H     0.43519   0.76154   0.37588   0.00000  Uiso   1.00
+C8     C     0.89941   0.00701   0.05867   0.00000  Uiso   1.00
+C9     C     0.85688   0.04085   0.08521   0.00000  Uiso   1.00
+H10    H     0.90530   0.95015   0.05973   0.00000  Uiso   1.00
+H11    H     0.83044   0.00985   0.10686   0.00000  Uiso   1.00
+C12    C     0.78223   0.82977   0.87211   0.00000  Uiso   1.00
+C13    C     0.75077   0.79515   0.84156   0.00000  Uiso   1.00
+H14    H     0.75471   0.87313   0.88554   0.00000  Uiso   1.00
+C15    C     0.89504   0.65993   0.81994   0.00000  Uiso   1.00
+N16    N     0.88788   0.63629   0.78552   0.00000  Uiso   1.00
+H17    H     0.93694   0.63880   0.83770   0.00000  Uiso   1.00
+C18    C     0.93771   0.58467   0.77011   0.00000  Uiso   1.00
+H19    H     0.94013   0.53751   0.78905   0.00000  Uiso   1.00
+H20    H     0.99122   0.60878   0.76874   0.00000  Uiso   1.00
+C21    C     0.56317   0.54600   0.53182   0.00000  Uiso   1.00
+C22    C     0.64862   0.61431   0.58541   0.00000  Uiso   1.00
+C23    C     0.34964   0.68909   0.38411   0.00000  Uiso   1.00
+C24    C     0.28616   0.75807   0.32206   0.00000  Uiso   1.00
+O25    O     0.25129   0.78723   0.29079   0.00000  Uiso   1.00
+O26    O     0.68390   0.81531   0.82921   0.00000  Uiso   1.00
+H27    H     0.66413   0.85498   0.84542   0.00000  Uiso   1.00
+Si28   Si    0.50000   0.50000   0.50000   0.00000  Uiso   1.00
+Ag29   Ag    0.81710   0.68290   0.75000   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+C1     C21     1.389   .     A
+C1     C2      1.388   .     A
+C1     H3      1.082   .     S
+C2     C22     1.395   .     A
+C2     H4      1.081   .     S
+C5     C23     1.392   .     A
+C5     C6      1.394   .     A
+C5     H7      1.080   .     S
+C6     C24     1.414   .     A
+C6     C15     1.479   5_464 S
+C8     C21     1.388   6_644 A
+C8     C9      1.385   .     A
+C8     H10     1.082   1_545 S
+C9     C22     1.394   6_644 A
+C9     H11     1.081   .     S
+H10    C8      1.082   1_565 S
+C12    C23     1.389   5_565 A
+C12    C13     1.388   .     A
+C12    H14     1.079   .     S
+C13    C24     1.388   5_565 A
+C13    O26     1.390   .     S
+C15    C6      1.479   5_565 S
+C15    N16     1.291   .     D
+C15    H17     1.084   .     S
+N16    Ag29    2.029   .     S
+N16    C18     1.461   .     S
+C18    H19     1.112   .     S
+C18    H20     1.112   .     S
+C18    C18     1.529   8_666 S
+C21    Si28    1.851   .     S
+C21    C8      1.388   6_655 A
+C22    C9      1.394   6_655 A
+C22    C23     1.479   3_566 S
+C23    C12     1.389   5_464 A
+C23    C22     1.479   4_656 S
+C24    C13     1.388   5_464 A
+C24    O25     1.391   .     S
+O25    Ag29    1.976   4_656 S
+O26    H27     1.012   .     S
+Si28   C21     1.851   2_665 S
+Si28   C21     1.851   3_566 S
+Si28   C21     1.851   4_656 S
+Ag29   O25     1.976   5_565 S
+Ag29   O25     1.976   3_566 S
+Ag29   N16     2.029   8_666 S
