@@ -1,0 +1,109 @@
+data_dAgAg05-oh
+_audit_creation_date              2025-09-02
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P-4N2'
+_symmetry_Int_Tables_number       118
+_symmetry_cell_setting            tetragonal
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  y,-x,-z
+  -y,x,-z
+  x+1/2,-y+1/2,z+1/2
+  -x+1/2,y+1/2,z+1/2
+  y+1/2,x+1/2,-z+1/2
+  -y+1/2,-x+1/2,-z+1/2
+_cell_length_a                    22.0467
+_cell_length_b                    22.0467
+_cell_length_c                    19.9013
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+C1     C     0.58362   0.66318   0.64231   0.00000  Uiso   1.00
+C2     C     0.61643   0.69893   0.68773   0.00000  Uiso   1.00
+H3     O     0.52942   0.68331   0.61407   0.00000  Uiso   1.00
+C4     C     0.75327   0.58942   0.71016   0.00000  Uiso   1.00
+N5     N     0.80000   0.61896   0.73207   0.00000  Uiso   1.00
+H6     H     0.75797   0.54129   0.70080   0.00000  Uiso   1.00
+C7     C     0.85856   0.59184   0.74843   0.00000  Uiso   1.00
+H8     H     0.87088   0.55752   0.70997   0.00000  Uiso   1.00
+H9     H     0.06742   0.64206   0.29939   0.00000  Uiso   1.00
+C10    C     0.84076   0.08498   0.14696   0.00000  Uiso   1.00
+C11    C     0.80483   0.11933   0.18971   0.00000  Uiso   1.00
+H12    H     0.82553   0.04056   0.13111   0.00000  Uiso   1.00
+C13    C     0.91382   0.25641   0.21024   0.00000  Uiso   1.00
+N14    N     0.88423   0.30332   0.23154   0.00000  Uiso   1.00
+H15    H     0.96239   0.26049   0.20478   0.00000  Uiso   1.00
+C16    C     0.91127   0.36164   0.24903   0.00000  Uiso   1.00
+H17    H     0.94650   0.37403   0.21160   0.00000  Uiso   1.00
+H18    H     0.85519   0.56932   0.79816   0.00000  Uiso   1.00
+C19    C     0.46217   0.46139   0.54277   0.00000  Uiso   1.00
+C20    C     0.43151   0.43011   0.57911   0.00000  Uiso   1.00
+C21    C     0.60448   0.60661   0.62342   0.00000  Uiso   1.00
+C22    C     0.67369   0.67714   0.71112   0.00000  Uiso   1.00
+O23    O     0.70601   0.70963   0.75927   0.00000  Uiso   1.00
+H      H     0.52206   0.72812   0.62037   0.00000  Uiso   1.00
+C24    C     0.50000   0.50000   0.50000   0.00000  Uiso   1.00
+Zn25   Ag    0.79405   0.70595   0.75000   0.00000  Uiso   1.00
+Zn26   Ag    0.79748   0.29748   0.25000   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+C1     C21     1.381   .     A
+C1     C2      1.400   .     A
+C1     H3      1.393   .     S
+C2     C22     1.429   .     A
+C2     C13     1.501   6_655 S
+H3     H       1.009   .     S
+C4     N5      1.295   .     D
+C4     H6      1.082   .     S
+C4     C11     1.497   6_655 S
+N5     Zn25    1.955   .     S
+N5     C7      1.459   .     S
+C7     H8      1.110   .     S
+C7     H18     1.110   .     S
+C7     C7      1.548   8_666 S
+H9     C16     1.110   2_665 S
+C10    C11     1.387   .     A
+C10    H12     1.082   .     S
+C10    C21     1.380   6_644 A
+C11    C4      1.497   6_644 S
+C11    C22     1.425   6_644 A
+C13    N14     1.294   .     D
+C13    H15     1.080   .     S
+C13    C2      1.501   6_644 S
+N14    Zn26    1.952   .     S
+N14    C16     1.459   .     S
+C16    H17     1.110   .     S
+C16    H9      1.110   2_665 S
+C16    C16     1.548   7_545 S
+C19    C24     1.465   .     S
+C19    C20     1.206   .     T
+C20    C21     1.436   2_665 S
+C21    C10     1.380   6_655 A
+C21    C20     1.436   2_665 S
+C22    O23     1.393   .     S
+C22    C11     1.425   6_655 A
+O23    Zn25    1.951   .     S
+O23    Zn26    1.947   4_656 S
+C24    C19     1.465   2_665 S
+C24    C19     1.465   3_566 S
+C24    C19     1.465   4_656 S
+Zn25   N5      1.955   8_666 S
+Zn25   O23     1.951   8_666 S
+Zn26   N14     1.952   7_545 S
+Zn26   O23     1.947   3_566 S
+Zn26   O23     1.947   6_644 S

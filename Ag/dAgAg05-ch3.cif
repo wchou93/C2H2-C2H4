@@ -1,0 +1,107 @@
+data_dAgAg05-ch3
+_audit_creation_date              2025-09-02
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P-4N2'
+_symmetry_Int_Tables_number       118
+_symmetry_cell_setting            tetragonal
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  y,-x,-z
+  -y,x,-z
+  x+1/2,-y+1/2,z+1/2
+  -x+1/2,y+1/2,z+1/2
+  y+1/2,x+1/2,-z+1/2
+  -y+1/2,-x+1/2,-z+1/2
+_cell_length_a                    22.1505
+_cell_length_b                    22.1505
+_cell_length_c                    19.7759
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+C1     C     0.58082   0.66442   0.64387   0.00000  Uiso   1.00
+C2     C     0.61445   0.70088   0.68769   0.00000  Uiso   1.00
+H3     C     0.52054   0.68456   0.61876   0.00000  Uiso   1.00
+C4     C     0.75142   0.59258   0.70864   0.00000  Uiso   1.00
+N5     N     0.79775   0.62183   0.73137   0.00000  Uiso   1.00
+H6     H     0.75619   0.54475   0.69883   0.00000  Uiso   1.00
+C7     C     0.85590   0.59476   0.74823   0.00000  Uiso   1.00
+H8     H     0.86835   0.56057   0.70963   0.00000  Uiso   1.00
+H9     H     0.06422   0.64032   0.29756   0.00000  Uiso   1.00
+C10    C     0.84213   0.08825   0.14506   0.00000  Uiso   1.00
+C11    C     0.80647   0.12237   0.18829   0.00000  Uiso   1.00
+H12    H     0.82650   0.04441   0.12837   0.00000  Uiso   1.00
+C13    C     0.91517   0.25902   0.20841   0.00000  Uiso   1.00
+N14    N     0.88581   0.30538   0.23092   0.00000  Uiso   1.00
+H15    H     0.96305   0.26399   0.19920   0.00000  Uiso   1.00
+C16    C     0.91288   0.36353   0.24783   0.00000  Uiso   1.00
+H17    H     0.94668   0.37623   0.20888   0.00000  Uiso   1.00
+H18    H     0.85223   0.57237   0.79828   0.00000  Uiso   1.00
+C19    C     0.46326   0.46063   0.54293   0.00000  Uiso   1.00
+C20    C     0.43325   0.42863   0.57907   0.00000  Uiso   1.00
+C21    C     0.60247   0.60884   0.62291   0.00000  Uiso   1.00
+C22    C     0.67191   0.67970   0.71031   0.00000  Uiso   1.00
+O23    O     0.70410   0.71205   0.75875   0.00000  Uiso   1.00
+C24    C     0.50000   0.50000   0.50000   0.00000  Uiso   1.00
+Zn25   Ag    0.79171   0.70829   0.75000   0.00000  Uiso   1.00
+Zn26   Ag    0.79954   0.29954   0.25000   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+C1     C21     1.385   .     A
+C1     C2      1.399   .     A
+C1     H3      1.493   .     S
+C2     C22     1.428   .     A
+C2     C13     1.502   6_655 S
+C4     N5      1.294   .     D
+C4     H6      1.082   .     S
+C4     C11     1.497   6_655 S
+N5     Zn25    1.955   .     S
+N5     C7      1.459   .     S
+C7     H8      1.110   .     S
+C7     H18     1.110   .     S
+C7     C7      1.547   8_666 S
+H9     C16     1.110   2_665 S
+C10    C11     1.388   .     A
+C10    H12     1.082   .     S
+C10    C21     1.381   6_644 A
+C11    C4      1.497   6_644 S
+C11    C22     1.425   6_644 A
+C13    N14     1.295   .     D
+C13    H15     1.082   .     S
+C13    C2      1.502   6_644 S
+N14    Zn26    1.952   .     S
+N14    C16     1.460   .     S
+C16    H17     1.110   .     S
+C16    H9      1.110   2_665 S
+C16    C16     1.548   7_545 S
+C19    C24     1.464   .     S
+C19    C20     1.206   .     T
+C20    C21     1.437   2_665 S
+C21    C10     1.381   6_655 A
+C21    C20     1.437   2_665 S
+C22    O23     1.393   .     S
+C22    C11     1.425   6_655 A
+O23    Zn25    1.950   .     S
+O23    Zn26    1.947   4_656 S
+C24    C19     1.464   2_665 S
+C24    C19     1.464   3_566 S
+C24    C19     1.464   4_656 S
+Zn25   N5      1.955   8_666 S
+Zn25   O23     1.950   8_666 S
+Zn26   N14     1.952   7_545 S
+Zn26   O23     1.947   3_566 S
+Zn26   O23     1.947   6_644 S

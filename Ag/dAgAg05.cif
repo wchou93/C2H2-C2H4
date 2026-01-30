@@ -1,0 +1,107 @@
+data_dAgAg05
+_audit_creation_date              2025-09-02
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P-4N2'
+_symmetry_Int_Tables_number       118
+_symmetry_cell_setting            tetragonal
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  y,-x,-z
+  -y,x,-z
+  x+1/2,-y+1/2,z+1/2
+  -x+1/2,y+1/2,z+1/2
+  y+1/2,x+1/2,-z+1/2
+  -y+1/2,-x+1/2,-z+1/2
+_cell_length_a                    22.1871
+_cell_length_b                    22.1871
+_cell_length_c                    19.6862
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+C1     C     0.58505   0.66140   0.64410   0.00000  Uiso   1.00
+C2     C     0.61897   0.69753   0.68731   0.00000  Uiso   1.00
+H3     H     0.54127   0.67669   0.62705   0.00000  Uiso   1.00
+C4     C     0.75551   0.58917   0.70713   0.00000  Uiso   1.00
+N5     N     0.80180   0.61821   0.73023   0.00000  Uiso   1.00
+H6     H     0.76028   0.54149   0.69679   0.00000  Uiso   1.00
+C7     C     0.85979   0.59098   0.74707   0.00000  Uiso   1.00
+H8     H     0.87273   0.55793   0.70732   0.00000  Uiso   1.00
+H9     H     0.06726   0.64434   0.29649   0.00000  Uiso   1.00
+C10    C     0.83859   0.08504   0.14410   0.00000  Uiso   1.00
+C11    C     0.80246   0.11897   0.18731   0.00000  Uiso   1.00
+H12    H     0.82330   0.04127   0.12705   0.00000  Uiso   1.00
+C13    C     0.91083   0.25550   0.20713   0.00000  Uiso   1.00
+N14    N     0.88178   0.30179   0.23023   0.00000  Uiso   1.00
+H15    H     0.95850   0.26028   0.19680   0.00000  Uiso   1.00
+C16    C     0.90901   0.35979   0.24708   0.00000  Uiso   1.00
+H17    H     0.94207   0.37272   0.20732   0.00000  Uiso   1.00
+H18    H     0.85566   0.56725   0.79648   0.00000  Uiso   1.00
+C19    C     0.46194   0.46194   0.54307   0.00000  Uiso   1.00
+C20    C     0.43086   0.43086   0.57911   0.00000  Uiso   1.00
+C21    C     0.60589   0.60588   0.62266   0.00000  Uiso   1.00
+C22    C     0.67624   0.67623   0.70977   0.00000  Uiso   1.00
+O23    O     0.70836   0.70835   0.75854   0.00000  Uiso   1.00
+C24    C     0.50000   0.50000   0.50000   0.00000  Uiso   1.00
+Zn25   Ag    0.79571   0.70429   0.75000   0.00000  Uiso   1.00
+Zn26   Ag    0.79570   0.29570   0.25000   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+C1     C21     1.382   .     A
+C1     C2      1.390   .     A
+C1     H3      1.082   .     S
+C2     C22     1.426   .     A
+C2     C13     1.498   6_655 S
+C4     N5      1.295   .     D
+C4     H6      1.082   .     S
+C4     C11     1.498   6_655 S
+N5     Zn25    1.954   .     S
+N5     C7      1.460   .     S
+C7     H8      1.110   .     S
+C7     H18     1.110   .     S
+C7     C7      1.549   8_666 S
+H9     C16     1.110   2_665 S
+C10    C11     1.390   .     A
+C10    H12     1.082   .     S
+C10    C21     1.382   6_644 A
+C11    C4      1.498   6_644 S
+C11    C22     1.426   6_644 A
+C13    N14     1.295   .     D
+C13    H15     1.082   .     S
+C13    C2      1.498   6_644 S
+N14    Zn26    1.954   .     S
+N14    C16     1.460   .     S
+C16    H17     1.110   .     S
+C16    H9      1.110   2_665 S
+C16    C16     1.549   7_545 S
+C19    C24     1.464   .     S
+C19    C20     1.206   .     T
+C20    C21     1.437   2_665 S
+C21    C10     1.382   6_655 A
+C21    C20     1.437   2_665 S
+C22    O23     1.392   .     S
+C22    C11     1.426   6_655 A
+O23    Zn25    1.947   .     S
+O23    Zn26    1.947   4_656 S
+C24    C19     1.464   2_665 S
+C24    C19     1.464   3_566 S
+C24    C19     1.464   4_656 S
+Zn25   N5      1.954   8_666 S
+Zn25   O23     1.947   8_666 S
+Zn26   N14     1.954   7_545 S
+Zn26   O23     1.947   3_566 S
+Zn26   O23     1.947   6_644 S
